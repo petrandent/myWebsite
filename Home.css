@@ -1,0 +1,22 @@
+body {
+    background-color:rgba(172, 35, 172, 0.801);
+    color:white;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.aboutme {
+    text-align: center;
+}
+
+
+
+a {
+   text-align:left;
+   color:white;
+   text-decoration:none;
+   line-height:2em;
+}
+
+a:hover {
+    color:black;
+}
