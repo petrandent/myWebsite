@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(138, 29, 138);
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:5%;
+}
+
+article {
+    text-align: justify;
+}
+
+.selfie {
+    width: 15%;
+    display:inline-block;
+}
+
+a {
+   text-align:left;
+   color:black;
+   text-decoration:none;
+   line-height:2em;
+}
+
+a:hover {
+    color:rgb(131, 236, 149);
+    background: black;
+}
+
+
+
+i {
+    color:rgb(60, 224, 60);
+    position: relative;
+    float:right;
+    margin-top:50px;
+    margin-left:10px;
+}
+
+per,p {
+    line-height:200%;
+}
+
+h1,h2 {
+    background-color: rgb(110, 109, 109);
+    color:rgb(83, 219, 128);
+    text-align:center;
+    padding: 10px 5px;
+}
+
+h3 {
+    text-align:center;
+    color:rgb(83, 219, 128);
+}
+
+footer {
+    background-color: rgb(110, 109, 109);
+}
+
+form {
+    text-align:center;
+}
+
+.menu li {
+    display:inline;
+    float:right;
+    background-color: rgb(35, 152, 219);
+    border:2px solid black;
+    margin:3px;
+    padding:3px;
+}
+
+ul {
+    display:inline;
+}
